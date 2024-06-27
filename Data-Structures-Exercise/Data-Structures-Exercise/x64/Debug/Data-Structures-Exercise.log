@@ -1,2 +1,7 @@
 ﻿  Data-Structures-Exercise.cpp
+  DynamicArrays.cpp
+  SystemSettings.cpp
+C:\Users\s213812\Documents\GitHub\Data-Structures-Exercise\Data-Structures-Exercise\Data-Structures-Exercise\SystemSettings.h(26,7): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\s213812\Documents\GitHub\Data-Structures-Exercise\Data-Structures-Exercise\Data-Structures-Exercise\SystemSettings.h(26,7): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Generating Code...
   Data-Structures-Exercise.vcxproj -> C:\Users\s213812\Documents\GitHub\Data-Structures-Exercise\Data-Structures-Exercise\x64\Debug\Data-Structures-Exercise.exe

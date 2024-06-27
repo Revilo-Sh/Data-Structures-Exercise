@@ -9,15 +9,16 @@ SystemSettings::SystemSettings()
 
 SystemSettings::~SystemSettings()
 {
-
+	// Need To Delete All The Data In The Array
 }
 
 void SystemSettings::ClsClear(){
 	system("cls");
 }
 
-void SystemSettings::SystemDataEqualToAllData()
-{
-	DynamicArrays
+void SystemSettings::SystemDataEqualToAllData(){
+	
+	// Need To get a Ref to the DyamicArray Arrray Data
+	// Then Need To Set the Data
 
 }
